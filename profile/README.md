@@ -11,6 +11,7 @@ Acompanhe nossa jornada e descubra o que a IndieVillain está preparando para o 
 ### Nossas redes sociais
 <div>
 <a href="https://www.youtube.com/@IndieVillan"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-YouTube-%23AA0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://x.com/IndieVillan"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-X-%23222222?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/indievillan"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23cd5ebe?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.tiktok.com/@indievillan"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-TikTok-%23222222?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
