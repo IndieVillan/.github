@@ -2,7 +2,7 @@
 <img src="../_imagens/indievillan_banner.png" width="300">
 
 ## Sobre nós
-A IndieVillan nasceu da união de 6 amigos da faculdade, apaixonados por jogos e desenvolvimento. Decidimos transformar essa paixão em realidade e fundamos a empresa com um objetivo claro: criar jogos que divirtam e marquem a vida das pessoas.
+A IndieVillan nasceu da união de 6 amigos da faculdade, apaixonados por jogos e desenvolvimento. Decididos a transformar essa paixão em realidade e fundamos a empresa com um objetivo claro: criar jogos que divirtam e marquem a vida das pessoas.
 
 Somos um time que acredita na colaboração, na criatividade e na busca constante por inovação. Nosso objetivo é continuar evoluindo, aprendendo com cada projeto e entregando jogos de alta qualidade que proporcionem experiências únicas para nossos jogadores.
 
