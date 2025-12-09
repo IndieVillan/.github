@@ -1,5 +1,5 @@
 # Bem-vindo ao github da IndieVillan!
-<img src="../_imagens/indievillan_banner.png" width="300">
+<img src="../_imagens/indievillan_banner.png" width="3000">
 
 ## Sobre nós
 A IndieVillan nasceu da união de 6 amigos da faculdade, apaixonados por jogos e desenvolvimento. Decididos a transformar essa paixão em realidade e fundamos a empresa com um objetivo claro: criar jogos que divirtam e marquem a vida das pessoas.
